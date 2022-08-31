@@ -1,1 +1,1 @@
-# hydropathy_diff_analyse
+These are the contribution to my internship at Karaca Lab in Izmir Biomedicine and Genome Center. Here, I did a statistical analysis of training data for the selected features and created box and scatter plots. These codes include plot creation and r-value calculations.
